@@ -27,6 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
+        android:inputType="textPassword"
         android:hint="Nhap mat khau"
         />
     <EditText
@@ -34,6 +35,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
+        android:inputType="textPassword"
         android:hint="Nhap lai mat khau"
          />
 
